@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01-basis_of_computer_engineering/01-basis_of_computer_engineering.iml" filepath="$PROJECT_DIR$/01-basis_of_computer_engineering/01-basis_of_computer_engineering.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-object-oriented/02-object-oriented.iml" filepath="$PROJECT_DIR$/02-object-oriented/02-object-oriented.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-codeStyle/03-codeStyle.iml" filepath="$PROJECT_DIR$/03-codeStyle/03-codeStyle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-JVM/04-JVM.iml" filepath="$PROJECT_DIR$/04-JVM/04-JVM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05-ExceptionsAndLogs/05-ExceptionsAndLogs.iml" filepath="$PROJECT_DIR$/05-ExceptionsAndLogs/05-ExceptionsAndLogs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06-DataStructuresAndCollections/06-DataStructuresAndCollections.iml" filepath="$PROJECT_DIR$/06-DataStructuresAndCollections/06-DataStructuresAndCollections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07-ConcurrencyAndMultithreading/07-ConcurrencyAndMultithreading.iml" filepath="$PROJECT_DIR$/07-ConcurrencyAndMultithreading/07-ConcurrencyAndMultithreading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08-UnitTesting/08-UnitTesting.iml" filepath="$PROJECT_DIR$/08-UnitTesting/08-UnitTesting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Easy_Coding.iml" filepath="$PROJECT_DIR$/Easy_Coding.iml" />
+    </modules>
+  </component>
+</project>
